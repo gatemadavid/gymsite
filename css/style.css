@@ -124,7 +124,7 @@ nav a:hover {
   right: 0.8rem;
 }
 .cell::before {
-  background: #827e7e;
+  background: #333;
   transform: scale(0);
   transition: transform ease-in-out 250ms;
 }
